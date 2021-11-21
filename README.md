@@ -1,5 +1,9 @@
 # Wemory  使用说明
 
+
+
+![wemory_logo-removebg-preview](README.assets/wemory_logo-removebg-preview-7487710.png)
+
 [wemory.co](wemory.co)
 
 
