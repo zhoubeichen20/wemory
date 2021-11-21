@@ -97,15 +97,13 @@ Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移�
 
 Windows：
 
-![Windows界面截屏](file:////Users/molikka/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+![img](README.assets/68747470733a2f2f7372632e77616b696e2e6f72672f6769746875622f77786578702f73637265656e73686f74732f77696e2e706e67.png)
 
  
 
 macOS：
 
-![MacOS界面截屏](file:////Users/molikka/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
-
- 
+![img](README.assets/68747470733a2f2f7372632e77616b696e2e6f72672f6769746875622f77786578702f73637265656e73686f74732f6d61632e706e67232323.png) 
 
 Wechat Exporter （以下简称 WE）能够自动识别iPhone 备份。如果你的电脑里面有旧的备份，请确保你选择的是最新的备份。
 
@@ -115,7 +113,7 @@ Wechat Exporter （以下简称 WE）能够自动识别iPhone 备份。如果你
 
  
 
-![img](file:////Users/molikka/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+![image-20211121174504679](README.assets/image-20211121174504679.png)
 
 
 
