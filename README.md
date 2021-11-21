@@ -33,16 +33,18 @@ Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移�
 4.  使用 Wemory需要的软件
 
    Wechat Exporter (GitHub开源软件，5MB，credit@BlueMatthew 
+   
    Mac OS: https://github.com/BlueMatthew/WechatExporter/releases/download/v1.9.0.2/v1.9.0.2_x64_macos.zip 
+
    Windows: https://github.com/BlueMatthew/WechatExporter/releases/download/v1.9.0.2/v1.9.0.2_x64_win.zip)
 
    iTunes（Windows 用户需要下载
-
-   - [下载 Windows 10（64 位）版 iTunes ](https://secure-appldnld.apple.com/itunes12/001-97787-20210421-F0E5A3C2-A2C9-11EB-A40B-A128318AD179/iTunes64Setup.exe)
-   - [下载 Windows 10（32位）版 iTunes ](https://secure-appldnld.apple.com/itunes12/001-97791-20210421-F0E1AA9C-A2C9-11EB-8059-A028318AD179/iTunesSetup.exe)
-   - [下载 Windows 8（64位）版 iTunes ](https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe)
-   - [下载 Windows 8（32位）版 iTunes ](https://secure-appldnld.apple.com/itunes12/001-80042-20210422-E8A351F2-A3B2-11EB-9A8F-CF1B67FC6302/iTunesSetup.exe)
-
+   
+   - [下载 Windows 10（64 位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-97787-20210421-F0E5A3C2-A2C9-11EB-A40B-A128318AD179/iTunes64Setup.exe)
+   - [下载 Windows 10（32位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-97791-20210421-F0E1AA9C-A2C9-11EB-8059-A028318AD179/iTunesSetup.exe)
+   - [下载 Windows 8（64位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe)
+   - [下载 Windows 8（32位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-80042-20210422-E8A351F2-A3B2-11EB-9A8F-CF1B67FC6302/iTunesSetup.exe)
+   
    压缩软件（推荐免费的 Bandizip或者 7Z，实际上，任何大众压缩软件皆可）
 
  
@@ -59,7 +61,7 @@ Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移�
 
 **使用 Mac 备份 iPhone**
 
-1. [使用线缆连接 iPhone 和电脑](https://support.apple.com/zh-sg/guide/iphone/iph42d9b3178/15.0/ios/15.0)。
+1. 使用线缆连接 iPhone 和电脑。
 
 2. 在 Mac 上的“访达”边栏中，选择您的 iPhone。
 
@@ -77,7 +79,7 @@ Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移�
 
 **使用 Windows PC 备份 iPhone**
 
-1. [使用线缆连接 iPhone 和电脑](https://support.apple.com/zh-sg/guide/iphone/iph42d9b3178/15.0/ios/15.0)。
+1. 使用线缆连接 iPhone 和电脑。
 
 2. 在 PC 上的 iTunes App 中，单击 iTunes 窗口左上方附近的 iPhone 按钮。
 
@@ -93,7 +95,7 @@ Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移�
 
  
 
-下载的软件解压之后，打开对应的 .exe 或者 .app 文件，可以看到如下画面：
+下载的软件解压之后，打开对应的 .exe 或者 .app 文件，可以看到如下画面（截图全部来自该 GitHub depository）：
 
 Windows：
 
@@ -154,8 +156,6 @@ Wemory 怎么保护我的隐私？
 
 
 
-
-
 Wemory 的幕后黑手是谁？
 
 周北辰 CEO
@@ -173,6 +173,8 @@ Wemory 的幕后黑手是谁？
 如何加入 Wemory 团队？
 
 想办法联系我们就行。
+
+
 
 
 
