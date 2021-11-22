@@ -22,7 +22,7 @@ Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移�
 
 
 
-我们的[定价](/pricing.md)
+我们的[定价](/pricing.md)。
 
  
 
