@@ -12,6 +12,15 @@ zhous.vip+wemory@gmail.com
 
 
 
+核心功能：
+
+* 备份你的微信聊天记录（文字，图片，视频，音频，文件）
+* 在手机和 PC 的浏览器上查看聊天记录
+* 一键查看所有聊天记录中的图片，视频和文件，并支持下载
+* 一键导出聊天记录为 PDF 
+
+
+
 Wemory 帮助你把聊天记录储存在云端，让你随时随地可以查看，从而减少手机的内存占用，给你掌控感。这样，你可以备份你一辈子的记录。我们后面即将开发的一系列功能将让你充分利用你的聊天记录，比如激动人心的「生日自动识别和管理」功能。 
 
 Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移到 iPad 或者iPhone 来使用我们这个功能。后期Wemory 也会支持安卓端纯手机端完成备份。
@@ -40,20 +49,16 @@ Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移�
 
 4.  使用 Wemory需要的软件
 
-   Wechat Exporter (GitHub开源软件，5MB，credit@BlueMatthew 
+   * Wechat Exporter (GitHub开源软件，5MB，credit@BlueMatthew) [Mac OS](https://github.com/BlueMatthew/WechatExporter/releases/download/v1.9.0.2/v1.9.0.2_x64_macos.zip),[Windows](https://github.com/BlueMatthew/WechatExporter/releases/download/v1.9.0.2/v1.9.0.2_x64_win.zip)
    
-   Mac OS: https://github.com/BlueMatthew/WechatExporter/releases/download/v1.9.0.2/v1.9.0.2_x64_macos.zip 
+   * iTunes（Windows 用户需要下载）
 
-   Windows: https://github.com/BlueMatthew/WechatExporter/releases/download/v1.9.0.2/v1.9.0.2_x64_win.zip)
-
-   iTunes（Windows 用户需要下载）
+   - * [下载 Windows 10（64 位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-97787-20210421-F0E5A3C2-A2C9-11EB-A40B-A128318AD179/iTunes64Setup.exe)
+   - * [下载 Windows 10（32位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-97791-20210421-F0E1AA9C-A2C9-11EB-8059-A028318AD179/iTunesSetup.exe)
+   - * [下载 Windows 8（64位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe)
+   - * [下载 Windows 8（32位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-80042-20210422-E8A351F2-A3B2-11EB-9A8F-CF1B67FC6302/iTunesSetup.exe)
    
-   - [下载 Windows 10（64 位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-97787-20210421-F0E5A3C2-A2C9-11EB-A40B-A128318AD179/iTunes64Setup.exe)
-   - [下载 Windows 10（32位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-97791-20210421-F0E1AA9C-A2C9-11EB-8059-A028318AD179/iTunesSetup.exe)
-   - [下载 Windows 8（64位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe)
-   - [下载 Windows 8（32位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-80042-20210422-E8A351F2-A3B2-11EB-9A8F-CF1B67FC6302/iTunesSetup.exe)
-   
-   压缩软件（推荐免费的 [Bandizip](https://cn.bandisoft.com/bandizip/) 或者 [7Z](https://sparanoid.com/lab/7z/)，实际上，任何大众压缩软件皆可）
+   * 压缩软件（推荐免费的 [Bandizip](https://cn.bandisoft.com/bandizip/) 或者 [7Z](https://sparanoid.com/lab/7z/)，实际上，任何大众压缩软件皆可）
 
  
 
