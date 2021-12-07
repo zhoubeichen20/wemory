@@ -12,6 +12,16 @@ zhous.vip+wemory@gmail.com
 
 
 
+欢迎加入内测群，免费试用  wemory，并帮助我们提高！
+
+
+
+![IMG_0041](README.assets/IMG_0041.JPG)
+
+
+
+
+
 核心功能：
 
 * 备份你的微信聊天记录（文字，图片，视频，音频，文件）
