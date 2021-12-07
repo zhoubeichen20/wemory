@@ -8,7 +8,7 @@
 
 联系我们：
 
-z.housvip+wemory@gmail.com
+zhous.vip+wemory@gmail.com
 
 
 
@@ -46,14 +46,14 @@ Wemory 目前只支持iPhone 和 iPad。安卓手机用户可以把记录迁移�
 
    Windows: https://github.com/BlueMatthew/WechatExporter/releases/download/v1.9.0.2/v1.9.0.2_x64_win.zip)
 
-   iTunes（Windows 用户需要下载
+   iTunes（Windows 用户需要下载）
    
    - [下载 Windows 10（64 位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-97787-20210421-F0E5A3C2-A2C9-11EB-A40B-A128318AD179/iTunes64Setup.exe)
    - [下载 Windows 10（32位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-97791-20210421-F0E1AA9C-A2C9-11EB-8059-A028318AD179/iTunesSetup.exe)
    - [下载 Windows 8（64位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe)
    - [下载 Windows 8（32位）版 iTunes](https://secure-appldnld.apple.com/itunes12/001-80042-20210422-E8A351F2-A3B2-11EB-9A8F-CF1B67FC6302/iTunesSetup.exe)
    
-   压缩软件（推荐免费的 Bandizip或者 7Z，实际上，任何大众压缩软件皆可）
+   压缩软件（推荐免费的 [Bandizip](https://cn.bandisoft.com/bandizip/) 或者 [7Z](https://sparanoid.com/lab/7z/)，实际上，任何大众压缩软件皆可）
 
  
 
@@ -114,6 +114,8 @@ Windows：
 macOS：
 
 ![img](README.assets/68747470733a2f2f7372632e77616b696e2e6f72672f6769746875622f77786578702f73637265656e73686f74732f6d61632e706e67232323.png) 
+
+
 
 Wechat Exporter （以下简称 WE）能够自动识别iPhone 备份。如果你的电脑里面有旧的备份，请确保你选择的是最新的备份。
 
@@ -182,20 +184,3 @@ Wemory 的幕后黑手是谁？
 
 想办法联系我们就行。
 
-
-
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
