@@ -16,7 +16,7 @@ zhous.vip+wemory@gmail.com
 
 
 
-![IMG_0041](README.assets/IMG_0041.JPG)
+<img src="README.assets/IMG_0041.JPG" alt="IMG_0041" style="zoom:33%;" />
 
 
 
