@@ -12,13 +12,9 @@ zhous.vip+wemory@gmail.com
 
 
 
-欢迎加入内测群，免费试用  wemory，并帮助我们提高！
+欢迎加入用户群，交流 wemory 的使用，并帮助我们提高！
 
-
-
-<img src="README.assets/IMG_0041.JPG" alt="IMG_0041" style="zoom:33%;" />
-
-
+![IMG_0075](README.assets/IMG_0075.JPG)
 
 
 
