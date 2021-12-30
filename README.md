@@ -12,7 +12,7 @@ zhous.vip+wemory@gmail.com
 
 
 
-想不注册体验一下？点击：[展示页面]([wemory](https://wemory.co/#/demo))
+想不注册体验一下？点击：[展示页面](https://wemory.co/#/demo)
 
 
 
