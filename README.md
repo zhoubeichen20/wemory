@@ -28,7 +28,7 @@ zhous.vip+wemory@gmail.com
 * 在手机和 PC 的浏览器上查看聊天记录
 * 一键查看所有聊天记录中的图片，视频和文件，并支持下载
 * 一键导出聊天记录为 PDF 
-* 查看你的微信年报，可以点击[查看展示](/annual statistics.JPG)
+* 查看你的微信年报，可以点击[查看展示](/annualstatistics.JPG)
 
 
 
